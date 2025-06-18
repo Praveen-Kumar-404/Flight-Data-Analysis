@@ -44,16 +44,3 @@ Flight-Data-Analysis/
 ├── script.js          # JS and chart logic
 ├── data/              # CSV data files
 └── assets/            # Images, icons, etc.
-
-📦 How to Run Locally
-bash
-Copy
-Edit
-# Clone the repo
-git clone https://github.com/Praveen-Kumar-404/Flight-Data-Analysis.git
-
-# Open index.html in browser
-cd Flight-Data-Analysis
-open index.html  # or double-click index.html
-⚠️ For full functionality, ensure the project is served with a local server to bypass CORS restrictions on CSV files.
-
